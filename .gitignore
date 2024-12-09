@@ -17,3 +17,4 @@ __pycache__
 
 cert.pem
 key.pem
+/.idea/dbnavigator.xml
